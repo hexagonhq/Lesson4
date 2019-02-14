@@ -1,0 +1,265 @@
+body {
+    width: 100;
+    height: 100%;
+    background: url("../img/background-main.jpg") no-repeat center/cover;
+    margin: 0;
+}
+
+/*
+container
+==============================*/
+.container {
+    max-width: 960px;
+    height: 500px;
+    margin: auto;
+    position: relative;
+}
+
+/*
+wrapper hearts
+==============================*/
+.wrapper {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    height: 100%;
+}
+
+/*
+picture
+==============================*/
+.heart {
+    position: absolute;
+    transition: transform 0.25s ease;
+}
+
+.heart:hover {
+    transform: scale(1.2);
+}
+
+.small {
+    width: 25px;
+    height: auto;
+}
+
+.medium {
+    width: 35px;
+    height: auto;
+}
+
+.large {
+    width: 45px;
+    height: auto;
+}
+
+.cupid {
+    width: 100px;
+    height: auto;
+}
+
+/*
+position
+==============================*/
+
+.position-0 {
+    top: 0;
+    left: 48%;
+    margin-left: -12.5px;
+}
+
+.position-1 {
+    top: -20px;
+    left: 50%;
+    margin-left: -12.5px;
+}
+
+.position-2 {
+    top: 2px;
+    left: 45%;
+}
+
+.position-3 {
+    top: -18px;
+    left: 43%;
+}
+
+.position-4 {
+    top: -30px;
+    left: 40%;
+}
+
+.position-5 {
+    top: -28px;
+    left: 36%;
+}
+
+.position-6 {
+    top: -20px;
+    left: 33%;
+}
+
+.position-7 {
+    top: -5px;
+    left: 31%;
+}
+
+.position-8 {
+    top: 15px;
+    left: 29%;
+}
+
+.position-9 {
+    top: 38px;
+    left: 28%;
+}
+
+.position-10 {
+    top: 62px;
+    left: 28%;
+}
+
+.position-11 {
+    top: 82px;
+    left: 29%;
+}
+
+.position-12 {
+    top: 110px;
+    left: 31%;
+}
+
+.position-13 {
+    top: 137px;
+    left: 33%;
+}
+
+.position-14 {
+    top: 157px;
+    left: 35%;
+}
+
+.position-15 {
+    top: 172px;
+    left: 37%;
+}
+
+.position-16 {
+    top: 196px;
+    left: 39%;
+}
+
+.position-17 {
+    top: 217px;
+    left: 41%;
+}
+
+.position-18 {
+    top: 242px;
+    left: 43%;
+}
+
+.position-19 {
+    top: 242px;
+    left: 44%;
+}
+
+.position-20 {
+    top: 240px;
+    left: 47%;
+}
+
+.position-21 {
+    top: 220px;
+    left: 49%;
+}
+
+.position-22 {
+    top: 205px;
+    left: 51%;
+}
+
+.position-23 {
+    top: 190px;
+    left: 53%;
+}
+
+.position-24 {
+    top: 170px;
+    left: 55%;
+}
+
+.position-25 {
+    top: 160px;
+    left: 57%;
+}
+
+.position-26 {
+    top: 138px;
+    left: 59%;
+}
+
+.position-27 {
+    top: 112px;
+    left: 61%;
+}
+
+.position-28 {
+    top: 80px;
+    left: 62%;
+}
+
+.position-29 {
+    top: 55px;
+    left: 63%;
+}
+
+.position-30 {
+    top: 35px;
+    left: 62%;
+}
+
+.position-31 {
+    top: 10px;
+    left: 62%;
+}
+
+.position-32 {
+    top: -15px;
+    left: 60%;
+}
+
+.position-33 {
+    top: -25px;
+    left: 58%;
+}
+
+.position-34 {
+    top: -32px;
+    left: 56%;
+}
+
+.position-35 {
+    top: -35px;
+    left: 53%;
+}
+
+.position-36 {
+    top: -30px;
+    left: 51%;
+}
+
+.postion-cupid {
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    margin-left: -65px;
+}
+
+/*
+img
+==============================*/
+img {
+    max-width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
