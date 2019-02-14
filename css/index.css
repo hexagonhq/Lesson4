@@ -6,6 +6,16 @@ body {
 }
 
 /*
+heading
+==============================*/
+.heading {
+    text-align: center;
+    color: #d24747;
+    font-size: 48px;
+    font-family: cursive;
+}
+
+/*
 container
 ==============================*/
 .container {
